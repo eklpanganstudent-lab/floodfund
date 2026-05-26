@@ -2,6 +2,14 @@
 
 Transparent typhoon relief payouts using Stellar and Soroban.
 
+# CONTRACT ID
+CAD3E5LD73NOI35RUYPORUYIGEUVTR3R5WQ425WJ6UNX64BKFD3XMCUE
+
+# CONTRACT LINK
+https://stellar.expert/explorer/testnet/contract/CAD3E5LD73NOI35RUYPORUYIGEUVTR3R5WQ425WJ6UNX64BKFD3XMCUE
+
+![PICTURE](stellarkate.png.png)
+
 ---
 
 ## Problem
